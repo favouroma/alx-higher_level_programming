@@ -1,0 +1,4 @@
+#0x12. Javascript - Warm up
+#Description
+The aim of this project is to get started with Javascript, learn all the syntax and its different uses.
+https://camo.githubusercontent.com/4ebd5d8fd9bfc20f3c6f574f5100e2f1448e36c5ce826da476de3b6a1be6e399/68747470733a2f2f646576732e6c6f6c2f75706c6f6164732f323032322f30362f6d656d652d6465762d68756d6f722d796f752d63616e742d6c6561726e2d6a6176617363726970742d696e2d33302d646179732d3239352e6a7067
