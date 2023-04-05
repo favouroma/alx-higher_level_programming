@@ -1,7 +1,6 @@
 #!/usr/bin/python3
-"""A script that:
-- of the X-Request-Id variable found in the header ofthe response.
-"""
+"""of the X-Request-Id variable found in the header ofthe response."""
+
 import sys
 import urllib.request
 

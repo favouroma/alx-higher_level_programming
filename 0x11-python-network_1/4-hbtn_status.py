@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""fetches"""
+"""is a Fetches https://alx-intranet.hbtn.io/status fetches"""
 import requests
 
 

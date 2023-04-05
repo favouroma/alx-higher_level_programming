@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+"""https://alx-intranet.hbtn.io/status"""
 
 import sys
 import requests
