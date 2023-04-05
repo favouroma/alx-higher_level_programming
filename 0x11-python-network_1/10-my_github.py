@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-"""A script that:
-- takes your GitHub credentials (username and password)"""
+
+
 import sys
 import requests
 from requests.auth import HTTPBasicAuth
